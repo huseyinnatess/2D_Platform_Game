@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - CampFire
+  - Block
+  - Sword
+  - BreakChest
+  - Spider
+  - Spear
+  - Big_Boar
+  - Weapon
+  - Salinan_Axe
+  - Door
+  - Bow
+  - Arrow
+  - Manivela
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Zemin
+  - Enemy
+  - Weapon
+  - NoCollision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2418699517
+    locked: 0
+  - name: Objeler
+    uniqueID: 1001269525
+    locked: 0
+  - name: Zemin
+    uniqueID: 1268898561
+    locked: 0
+  - name: NPC
+    uniqueID: 450700717
+    locked: 0
+  - name: TemasliObje
+    uniqueID: 846758097
+    locked: 0
+  - name: Enemy_NPC
+    uniqueID: 2547793305
+    locked: 0
+  - name: Enemy_Canvas
+    uniqueID: 1133327255
+    locked: 0
+  - name: Efektler
+    uniqueID: 3867404817
+    locked: 0
+  - name: Player
+    uniqueID: 2981914615
+    locked: 0
